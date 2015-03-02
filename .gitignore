@@ -102,3 +102,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# For the db
+merit.db
